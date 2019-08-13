@@ -5,7 +5,7 @@ Follow us on [Twitter](http://twitter.com/capablerobot) for product announcement
 
 ---
 
-**SenseTemp is currently in-pre launch on CrowdSupply.  You can sign up on the [campaign page](https://www.crowdsupply.com/capable-robot-components/sensetemp) for project update.** 
+**SenseTemp TEC is available for purchase at [CrowdSupply](https://www.crowdsupply.com/capable-robot-components/sensetemp) & [Mouser](https://www.mouser.com/ProductDetail/Crowd-Supply/cs-sensetemp-03?qs=sGAEpiMZZMsSgQ5oX0A7uhzs7btMGoRQYlEWJtksaKTgK6BSOcNH6Q%3D%3D).**  
 
 ## SenseTemp TEC Features 
 
@@ -31,7 +31,6 @@ Note that the ES8266 Feather is **NOT** supported due to the limited IO on the E
 	* Added 12v to 3v regulator (and disabled 5v to 3v regulator on host board).
 	* Minor footprint changes.
 	* Changed `PWM` pin for TEC control.
-	* Add user LED near RTD connector.
 * [CRHVEF](revisions/CRHVEF) : Initial version released 2018-12-04.
 
 ## License Information
